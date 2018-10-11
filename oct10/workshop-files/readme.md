@@ -2,13 +2,8 @@
 <html>
   <head>
     <link href='https://fonts.googleapis.com/css?family=Rock+Salt' rel='stylesheet' /> 
-    <style>
-      h1 {
-        ;
-      }
-    </style>
   </head>
   <body>
-    <h1 style="font-family: 'Rock Salt'">Welcome!</h1>
+    <h1 style="font-family:'Rock Salt';">Welcome!</h1>
   </body>
 </html>
