@@ -1,1 +1,24 @@
+div {
+  height: 12em;
+  width: 12em;
+}
+
+#red {
+  background: #ff0000;
+}
+
+#green {
+  background: #00cc44;
+}
+
+#rounded {
+  border-radius: 1em;
+  padding: 2em;
+  background: #ff3300;  
+}
+
+#rounded:hover {
+  box-shadow: .5em .5em #d9d9d9;
+}
+
 
