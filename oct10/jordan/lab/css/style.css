@@ -26,5 +26,5 @@ div {
 }
 
 @keyframes recolor {
-  to {background: #ff0000;}
+  to{background: #ff0000;}
 }
