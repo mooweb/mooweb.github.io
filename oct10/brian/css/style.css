@@ -9,7 +9,7 @@ div {
         animation: recolor 8s infinite;
 }
 @keyframes recolor {
-  to {background: yellow;}
+  to {background: #33cc33;}
 }
 
 #red {
