@@ -16,7 +16,7 @@ div{
   animation: recolor 3s infinite;
 }
 #red{
-  background-color:green;
+  background-color: red;
 }
 #blue{
   background-color: blue;
