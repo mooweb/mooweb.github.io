@@ -15,10 +15,10 @@ div{
    display: inline-block;
   animation: recolor 3s infinite;
 }
-#red{
+#red {
   background-color: red;
 }
-#blue{
+#blue {
   background-color: blue;
 }
 @keyframes recolor{
