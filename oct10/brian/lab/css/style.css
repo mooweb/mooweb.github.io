@@ -1,1 +1,11 @@
-
+img {
+  height: 10em;
+  width: 10em;
+}
+a {
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline:
+    background: green;
+}
