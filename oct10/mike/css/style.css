@@ -20,3 +20,20 @@ div {
 body{
   background: gray;
 }
+
+h1 {
+    color: silver;
+    text-align: center;
+}
+
+p {
+    font-family: arial;
+    font-size: 40px;
+    color: red;
+}
+</style>
+</head>
+<body>
+
+<h1>Mike's First Example</h1>
+<p>This class is pretty cool</p>
