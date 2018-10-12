@@ -10,9 +10,15 @@ a:hover{
     background: green;
 }
 div{
-  heigth: 20em;
-  width: 20em;
+  heigth: 10em;
+  width: 10em;
   background: blue;
   display: inline-block;
   animation: recolor 3s infinite;
+}
+#red{
+  background: red;
+}
+@keyframes recolor{
+  to {background: green;}
 }
