@@ -8,6 +8,6 @@ $(document).ready(function(){
     $(this).fadeOut(3000);
     });
   $('#rounded').click(function(){
-    $('div').css({'background-color':'yellow'});
+    $('div').css({'background-color':'gray'});
     });
 });
