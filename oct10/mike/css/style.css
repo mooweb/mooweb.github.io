@@ -31,12 +31,12 @@ p {
     font-size: 40px;
     color: red;
 }
+
+body{
+  border-style: dashed;
+}
+
 </style>
 </head>
 <body>
 
-<h1>Mike's First Example</h1>
-<p>This class is pretty cool</p>
-
-</body>
-</html>
