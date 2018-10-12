@@ -6,6 +6,6 @@ $('img').click(function(){
 $('div').click(function(){
   $(this).fadeOut(3000);
 });
-$(#rounded').click(function(){
+$('#rounded').click(function(){
   $('div').css({'border-radius':'10em'});
 });
