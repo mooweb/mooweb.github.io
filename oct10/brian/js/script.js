@@ -6,13 +6,7 @@ $('#rounded').click(function(){
     $(this).fadeout(3000);
  });
 $('img').click(function(){
-    $(this).fadeout(3000);
+    $('img').hide();
  });
-  $("button").click(function(){
-    $("p").hide();
-});
-  
-  
-  $('p').click(function(){
-    $('#custom').css({'bacground-color':'yellow'});
+   
 });
