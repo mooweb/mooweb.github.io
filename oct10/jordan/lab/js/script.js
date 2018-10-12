@@ -8,5 +8,3 @@ $(document).ready(function(){
       $('body').css({'border-radius': '100px'});
       });
  });
-  
-});
