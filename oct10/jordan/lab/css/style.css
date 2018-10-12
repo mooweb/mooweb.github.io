@@ -19,10 +19,10 @@ div {
       display: inline-block;
       animation: recolor 5s infinite;
 }
-
+<!--
 #red {
       background: red;
-}
+} -->
 
 @keyframes recolor {
   to {background: #ff0000;}
