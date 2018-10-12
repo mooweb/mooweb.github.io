@@ -6,7 +6,7 @@
            text-decoration:none;
            }
            a:hover{
-           text-decoration;underline;
+           text-decoration:underline;
            background:red;
            }
            
@@ -18,11 +18,14 @@
            animation:recolor 5s infinite;
            }
            
-           #red{
-           background:red;
+           #orange{
+           background:orange;
+           }
+ #brown{
+           background:brown;
            }
            @keyframes recolor{
-           to {backround:GREEN;}
+           to {backround:green;}
            }
            
           
