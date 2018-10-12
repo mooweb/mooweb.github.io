@@ -1,3 +1,9 @@
 $(document).ready(function(){
-
+$('div').click(functional(){
+               $(this).hide();
 });
+$('img').click{function(){
+  $('img').css({'border-radius':'100px'})
+});
+              });
+              });
