@@ -9,6 +9,6 @@ $('div').click(function(){
       $('img').hide();
       });
    $('button').click(function(){
-  $('img').toggleClass('down');
+  $('img').toggle();
 });
 });
