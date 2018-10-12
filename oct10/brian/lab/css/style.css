@@ -1,6 +1,6 @@
 img{
-  height: 20em;
-  width: 20em;
+  height: 10em;
+  width: 10em;
 }
 a{
   text-decoration: none;
@@ -10,8 +10,8 @@ a:hover{
     background: green;
 }
 div{
-  heigth: 10em;
-  width: 10em;
+  heigth: 20em;
+  width: 20em;
   background: blue;
   display: inline-block;
   animation: recolor 3s infinite;
