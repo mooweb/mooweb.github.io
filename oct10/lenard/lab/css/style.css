@@ -1,6 +1,6 @@
            img{
-           height:10em;
-           width:10em:
+           height:20em;
+           width:20em:
            }
           a{
            text-decoration:none;
@@ -11,8 +11,8 @@
            }
            
            div{
-           height:10em;
-           width:10em;
+           height:20em;
+           width:20em;
            background:green;
            display:inline-block;
            animation:recolor 5s infinite;
