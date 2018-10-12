@@ -1,7 +1,6 @@
 $(document).ready(function(){
 $('#rounded').click(function(){
   $('div').css({'border-radius':'10em'});
-});
  });
 $('img').click(function(){
     $('img').hide();
