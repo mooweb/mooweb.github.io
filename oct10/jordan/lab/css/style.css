@@ -22,7 +22,7 @@ div {
 }
 
 #red {
-      background: #red;
+      background: red;
 }
 
 @keyframes recolor {
