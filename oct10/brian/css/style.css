@@ -6,7 +6,7 @@ div, img {
 }
 
 div {
-        animation: recolor 8s infinite;
+        animation: recolor 2s infinite;
 }
 @keyframes recolor {
   to {background: #33cc33;}
