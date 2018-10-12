@@ -1,8 +1,8 @@
 $(document).ready(function(){
 $('div').click{function(){
-   $(this).hide(){
+   $(this).hide();
 });
-  $('img').click(funtions()}
-                 $('body').css({'border-radium':'100px'});
+  $('img').click(funtion(){
+                 $('body').css({'border-radius':'100px'});
                  });
 });
