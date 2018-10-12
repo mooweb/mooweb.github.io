@@ -16,10 +16,10 @@ div{
   animation: recolor 3s infinite;
 }
 #red{
-  background: red;
+  background-color: red;
 }
 #blue{
-  background: blue;
+  background-color: blue;
 }
 @keyframes recolor{
   to {background: green;}
