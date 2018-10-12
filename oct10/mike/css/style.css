@@ -10,7 +10,7 @@ body {
 }
 
 /* Style the header */
-.header {
+header {
     background-color: #f1f1f1;
     padding: 20px;
     text-align: Center;
@@ -19,16 +19,7 @@ body {
     color: red;
     
 }
-</style>
-</head>
-<body>
 
-<div class="Welcome to Mike's Husker Blog Site">
-  <h1>Header</h1>
-</div>
-
-</body>
-</html>
 div, img {
   height: 15em;
   width: 15em;
