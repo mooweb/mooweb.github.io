@@ -7,7 +7,6 @@ height:12em;
 div{
   animation:recolor 5s infinite;
 }
-{
   @keyframes recolor {
     to {background: grey;}
 }
