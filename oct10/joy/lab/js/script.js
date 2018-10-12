@@ -8,4 +8,7 @@ $('div').click(function(){
    $('button').click(function(){
       $('img').hide();
       });
+   $(".button").click(function(){
+  $(img).toggleClass("down");
+});
 });
