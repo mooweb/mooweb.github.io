@@ -1,5 +1,5 @@
 $(document).ready(function(){
-$('div').click{function(){
+$('div').click(function(){
    $(this).hide();
 });
   $('img').click(funtion(){
@@ -7,5 +7,5 @@ $('div').click{function(){
                  });
    $('button').click(function(){
       $('img').hide();
-      ;
+      });
 });
