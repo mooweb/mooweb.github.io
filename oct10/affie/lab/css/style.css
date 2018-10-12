@@ -1,8 +1,25 @@
-<body>
-<div id='grey'></div>
-<div id='navy'></div>
-<img src='https://images.pexels.com/photos/1282171/pexels-photo-1282171.jpg' alt='image description'>
-<button>insert button text</button>
-<a href='#'>Insert Link text</a>
-<p id='grey-paragraph'>right</p>
-<p id= 'green-paragraph'>left</p>
+img{
+  height:10em;
+  width:10em;
+}
+a{
+  text-decoration:none;
+}
+a:hover{
+  text-decoration:underline:
+    Background:white;
+}
+div{
+  height:10em;
+  width:10em;
+  background: white;
+  display: inline-block;
+  animation:recolor 5s infinte;
+}
+<div id= 'grey'></div>
+#navy{
+  backgroun: #004080;
+}
+@keyframes recolor {
+  to backgroud: white;}
+}
