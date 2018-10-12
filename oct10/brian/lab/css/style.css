@@ -9,3 +9,10 @@ a:hover{
   text-decoration: underline;
     background: green;
 }
+div{
+  heigth: 10em;
+  width: 10em;
+  background: blue;
+  display: inline-block;
+  animation: recolor 3s infinite;
+}
