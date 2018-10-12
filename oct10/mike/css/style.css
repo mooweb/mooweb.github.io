@@ -11,12 +11,12 @@ body {
 
 /* Style the header */
 header {
-    background-color: #f1f1f1;
+    background-color: red;
     padding: 20px;
     text-align: Center;
     font-family: impact;
     font-size: 30px;
-    color: red;
+    color: white;
     
 }
 
