@@ -4,6 +4,11 @@ div, img{
   display: inline-block;
   margin: 1em;
 }
+
+img {
+  display:none;
+}
+
 #green{
   background: green;
 }
