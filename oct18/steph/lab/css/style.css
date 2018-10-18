@@ -28,6 +28,10 @@ div{
   background:yellow;
 }
 
+#green{
+  background:green;
+}
+
 @keyframes recolor {
   to {background: blue;}
 }
