@@ -5,9 +5,9 @@ img{
 a{
     text-decoration:none;
 }
-a:hover[
+a:hover{
   text-decoration: underline;
-  background: yellow;
+  background: red;
 }
 
 div{
@@ -31,7 +31,7 @@ div{
 }
 
 
-#rounded{
+#button{
   background: green;
   box-shadow: .5em .5em gray;
   padding: 1em;
