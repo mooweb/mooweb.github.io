@@ -31,3 +31,9 @@ div{
   to{background: teal;}
 }
 
+button{
+    background: blue;
+  box-shadow: .5em .5em gray;
+  padding: 1em;
+  font-size: 2em;
+  border-radius: 1em;
