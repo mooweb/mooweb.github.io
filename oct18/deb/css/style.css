@@ -7,7 +7,7 @@ div, img {
 
 img{
   display:none;
-  {
+}
 div{
   animation:recolor 5s infinite;
 }
