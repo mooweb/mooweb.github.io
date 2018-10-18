@@ -31,7 +31,7 @@ div {
 @keyframes recolor {
   to {background: blue;}
   
-#button {
+button {
   background: green;
   box-shadow: .5em .5em gray;
   padding: 1em;
