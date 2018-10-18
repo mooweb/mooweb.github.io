@@ -7,7 +7,7 @@ a{
 }
 a:hover[
   text-decoration: underline;
-  background:yellow;
+  background: yellow;
 }
 
 div{
@@ -21,10 +21,11 @@ div{
 #green{
   background: green;
 }
+
 #blue{
   background: blue;
 }
 
 @keyframes recolor{
-  to{background; pink;}
+  to{background: pink;}
 }
