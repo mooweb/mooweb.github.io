@@ -25,6 +25,8 @@ div {
 }
 
 #gold {
+   height: 5em;
+  width: 5em;
      background: gold;
 }
 
