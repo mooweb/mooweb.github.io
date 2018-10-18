@@ -1,6 +1,6 @@
 div,img{
-  height: 12em;
-  width: 12em;
+  height: 10em;
+  width: 10em;
   display: inline-block;
   margin: 1em;
 }
@@ -17,8 +17,35 @@ img {
   background:#cc6600;
 }
 
+#red{
+  background:#ff00ff;
+}
+
+#yellow{
+  background:#ffff99;
+}
+
 div{
   animation: recolor 5s infinite;
 }
 @keyframes recolor {
   to{background:gray;}
+  
+ a {
+    text-decoration:none;
+  }
+  
+  a:hover{
+    text-decoration:underline;
+    background:yellow;
+  }
+  
+  div{
+    height: 10em;
+    width: 10em;
+    background: INSER COLOR;
+    display: inline-block;
+    animation: recolor 5s infinite;
+  }
+     
+
