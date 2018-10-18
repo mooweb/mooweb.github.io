@@ -1,7 +1,8 @@
 $(document).ready(function(){
-  $('img').fadeIn('slow');
+  $('div').click(function(){
+    $(this).hide();
     
-    $('button').click(function(){
-    $('img').fadeOut('fast');
-  });
+    $('img').click(function(){
+      $('body').css({'border-radius':'100px'});
 });
+  });
