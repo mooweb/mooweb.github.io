@@ -10,7 +10,7 @@ div, img {
 }
 #blue{
     background: blue;
-
+}
 
 div{
     animation: recolor 5s infinite;
