@@ -32,6 +32,6 @@ div{
   background:green;
 }
 
-@keyframes recolor {
-  to {background: blue;}
+@keyframes recolor{
+  to{background: blue;}
 }
