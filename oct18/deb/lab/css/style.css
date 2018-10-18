@@ -11,7 +11,7 @@ a:hover{
   text-decoration: underline;
   background: yellow;
 }
-div}
+div{
 height: 10em;
 wideth: 10em;
 background: yellow;
@@ -19,5 +19,5 @@ display: inline-block;
 animation:recolor 5s infinite;
 }
 @keyframes recolor {
-  to background: yellow;}
+  to {background: yellow;}
 }
