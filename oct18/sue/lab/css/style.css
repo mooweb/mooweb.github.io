@@ -20,5 +20,5 @@ div {
   background: orange;
 }
 @keyframes recolor {
-  to {background: orange;}
+  to {background: black;}
 }
