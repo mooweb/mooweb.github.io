@@ -15,7 +15,7 @@ a:hover{
 div{
   height:12em;
   width:12em;
-  background: blue;
+  background: yellow;
   display:inline-block;
   animation:recolor 5s infinite;
 }
@@ -26,10 +26,6 @@ div{
 
 #yellow{
   background:yellow;
-}
-
-#green-paragraph{
-  color:green;
 }
 
 @keyframes recolor{
