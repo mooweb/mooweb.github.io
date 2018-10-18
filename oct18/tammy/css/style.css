@@ -1,1 +1,20 @@
+div,img{
+  height: 12em;
+  width: 12em;
+  display: inline-block;
+  margin: 1em;
+}
 
+#blue{
+  background:##99ccff;
+}
+
+#orange{
+  background:#cc6600;
+}
+
+div{
+  animation: recolor 5s infinite;
+}
+@keyframes recolor {
+  to{background:gray;}
