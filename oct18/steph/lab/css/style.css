@@ -12,12 +12,11 @@ a:hover{
   background:yellow;
 }
 
-div,img{
+div{
   height:12em;
   width:12em;
   background: blue;
   display:inline-block;
-  margin:1em;
   animation:recolor 5s infinite;
 }
 
