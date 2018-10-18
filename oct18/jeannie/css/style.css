@@ -18,12 +18,13 @@ div{
 }
 
 @keyframes recolor{
-  to{background: green'}
+  to{background: green;}
     
-        background:#00cc44;
     }
 
    #red{
       background: #ff0000;
     }
     #green {
+      background: #00cc44;
+}
