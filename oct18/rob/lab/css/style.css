@@ -5,3 +5,15 @@ img{
 a{
     text-decoration:none;
 }
+a:hover[
+  text-decoration: underline;
+  background:yellow;
+}
+
+div{
+    height: 10em;
+    width: 10em;
+    background: grey;
+    display: inline-block;
+    animation: recolor 5s infinite;
+}
