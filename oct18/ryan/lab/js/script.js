@@ -8,7 +8,7 @@ $(document).ready(function(){
       });
   
   $('button').click(function(){
-    $(img).hide();
+    $('img').hide();
     $('body').css({'background':'grey'});
   });
   
