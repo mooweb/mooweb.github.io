@@ -4,10 +4,10 @@ div,img {
   display: inline-block;
   margin: 1em;
 }
-#red {
+#blue {
   background: #ff0000;
 }
-#green {
+#orange {
   background: #00cc44
 }
 
