@@ -1,15 +1,15 @@
 
 img{
-  height: 10em
+  height: 10em;
     width: 10em;
 }
 
 a{
-  text-decoration:none'
+  text-decoration:none;
 }
 
 a:hover{
-  text-decoration: underline'
+  text-decoration: underline;
     background: yellow;
 }
 
