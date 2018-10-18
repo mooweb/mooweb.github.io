@@ -31,6 +31,9 @@ div{
 #green{
   background:green;
 }
+#green-paragraph{
+  color:green;
+}
 
 @keyframes recolor{
   to{background: blue;}
