@@ -21,10 +21,6 @@ div {
   display: inline-block;
   animation: recolor 5s infinite;
 }
-      
-img{
-    display:none;
-}
 
 
 @keyframes recolor {
