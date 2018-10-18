@@ -1,7 +1,7 @@
 $(document).ready(function(){
-  $('img'.fadeIn(slow);
+  $('img'.fadeIn('slow');
     
     $('button').click(function(){
-    $('img').fadeOut(fast);
+    $('img').fadeOut('fast');
   });
 });
