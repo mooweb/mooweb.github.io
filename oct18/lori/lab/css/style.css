@@ -30,6 +30,7 @@ div {
 
 @keyframes recolor {
   to {background: blue;}
+} 
   
 button {
   background: green;
