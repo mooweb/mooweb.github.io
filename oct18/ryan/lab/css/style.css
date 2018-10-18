@@ -1,5 +1,5 @@
 img{
-  height: 10em;
+  height: 20em;
   width: 10em;
 }
 
@@ -27,7 +27,7 @@ div{
   background:yellow;
 }
 
-@keyframes recolo{
+@keyframes recolor{
   to{background: purple;}
 }
 
