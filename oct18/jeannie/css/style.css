@@ -6,6 +6,12 @@ div,img{
   margin: 1em
 }
 
+ #blue{
+      background: #ff0000;
+    }
+    #green {
+   
+
 div{
   animation: recolor 5s infinite;
 }
@@ -13,9 +19,5 @@ div{
 @keyframes recolor{
   to{background: green'}
     
-    #red{
-      background: #ff0000;
-    }
-    #green {
         background:#00cc44;
     }
