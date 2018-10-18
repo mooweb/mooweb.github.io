@@ -20,4 +20,14 @@ div{
   animation: recolor 5s infinite;
 }
 
+#green{
+   backgound:green;
+}
+#yellow{
+  background:yellow;
+}
+
+@keyframes recolo{
+  to{background: purple;}
+}
 
