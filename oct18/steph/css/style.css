@@ -16,5 +16,5 @@ div{
   animation:recolor 5s infinite;
 }
 @keyframes recolor{
-  to{background:blue;}
+  to{background:red;}
 }
