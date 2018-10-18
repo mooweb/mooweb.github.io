@@ -5,6 +5,10 @@ div, img {
    margin: 1em;
 } 
 
+img {
+    display:none;
+}
+
 #purple {
   background: purple;
 }
