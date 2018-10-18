@@ -5,6 +5,10 @@ div, img {
   margin: 1em;
 }
 
+img {
+  display:none;
+}
+
 div{
     animation: recolor 5s infinite;
 }
