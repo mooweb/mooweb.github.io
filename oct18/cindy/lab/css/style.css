@@ -16,7 +16,7 @@ a:hover {
 div {
   height: 10em;
   width: 10em;
-  background: url('https://images.pexels.com/photos/1029604/pexels-photo-1029604.jpeg');
+
   display: inline-block;
   animation: recolor 5s infinite;
 }
@@ -26,7 +26,7 @@ div {
 }
 
 #orange {
-  background: orange;
+  background: url('https://images.pexels.com/photos/1029604/pexels-photo-1029604.jpeg');
 }
 
 @keyframes recolor {
