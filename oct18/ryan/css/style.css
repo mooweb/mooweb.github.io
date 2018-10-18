@@ -5,6 +5,13 @@ div, img {
     margin: 1em;
 }
 
+#red{
+    background: #ff0000;
+}
+#blue{
+    background: #336bff
+
+
 div{
       animation:recolor 5s infinite;
 }
