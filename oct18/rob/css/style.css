@@ -4,10 +4,17 @@ div, img{
   display: inline-block;
   margin: 1em;
 }
+#green{
+  background: green;
+}
+#blue{
+  background: blue:
+}
+
 
 div{
       animation:recolor 5s infinite;
 }
 @keyframes recolor{
-  to{background:green;}
+  to{background:orange;}
   } 
