@@ -7,10 +7,11 @@ div,img{
 }
 
  #blue{
-      background: #ff0000;
+      background: blue;
     }
     #green {
-   
+      background: green;
+}
 
 div{
   animation: recolor 5s infinite;
@@ -21,3 +22,8 @@ div{
     
         background:#00cc44;
     }
+
+   #red{
+      background: #ff0000;
+    }
+    #green {
