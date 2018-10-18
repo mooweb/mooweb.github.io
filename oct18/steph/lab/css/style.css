@@ -1,6 +1,6 @@
 img{
-  height:10em;
-  width:10em;
+  height:12em;
+  width:12em;
 }
 
 a{
@@ -13,8 +13,8 @@ a:hover{
 }
 
 div,img{
-  height:10em;
-  width:10em;
+  height:12em;
+  width:12em;
   background: blue;
   display:inline-block;
   margin:1em;
