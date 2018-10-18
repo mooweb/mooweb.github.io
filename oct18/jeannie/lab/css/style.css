@@ -30,10 +30,10 @@ div{
 }
 
 @keyframes recolor{
-  to [background: purple;}
+  to {background: purple;}
 }
 
-#rounded {
+button {
   background: green;
   box-shadow: .5em .5em gray;
   padding: 1em;
