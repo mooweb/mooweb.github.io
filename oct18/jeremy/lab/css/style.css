@@ -36,7 +36,7 @@ div {
 
 button {
     background: green;
-  box-shadow: 5em 5em gray;
+  box-shadow: .5em .5em gray;
   padding: 1em;
   font-size: 8em
   border-radius: 1em;
