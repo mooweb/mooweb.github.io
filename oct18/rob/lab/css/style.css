@@ -34,7 +34,7 @@ div{
 button{
   background: green;
   box-shadow: .5em .5em grey;
-  padding: 1em;
-  font-size: 2em;
+  padding: .5em;
+  font-size: .35em;
   border-radius: 1em;
 }
