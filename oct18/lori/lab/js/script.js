@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $('div').click(function(){
+  $('#gold').click(function(){
   $(this).hide();
  });
   
