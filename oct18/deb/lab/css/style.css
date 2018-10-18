@@ -1,1 +1,6 @@
-
+div,img{
+  height: 10em;
+  width: 10em;
+  display:inline-block;
+  margin: 1em
+}
