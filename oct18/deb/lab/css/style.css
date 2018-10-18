@@ -16,8 +16,11 @@ height: 10em;
 wideth: 10em;
 background: yellow;
 display: inline-block;
-animation:recolor 5s infinite;
+animation: recolor 5s infinite;
+}
+#yellow {
+  background: orange;
 }
 @keyframes recolor {
-  to {background: yellow;}
+  to {background: brown;}
 }
