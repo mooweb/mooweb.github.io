@@ -1,1 +1,32 @@
+img {
+  height: 10em;
+  width: 10em;
+}
 
+a{
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  background: blue;
+}
+
+div {
+  height: 10em;
+  width: 10em;
+  background: orange;
+  display: inline-block;
+  animation: recolor 5s infinite;
+}
+
+#blue {
+  background: blue;
+}
+
+#orange {
+  background: orange;
+}
+
+@keyframes recolor {
+  to {background: blue;}
