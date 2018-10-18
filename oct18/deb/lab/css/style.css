@@ -4,3 +4,20 @@ div,img{
   display:inline-block;
   margin: 1em;
 }
+a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+  background: yellow;
+}
+div}
+height: 10em;
+wideth: 10em;
+background: yellow;
+display: inline-block;
+animation:recolor 5s infinite;
+}
+@keyframes recolor {
+  to background: yellow;}
+}
