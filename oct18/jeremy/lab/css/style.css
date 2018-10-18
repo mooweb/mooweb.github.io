@@ -1,1 +1,39 @@
+div, img{
+  height: 10em;
+  width: 10em;
+  display: inline-block;
+  margin: 1em:
+}
 
+a{
+    text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+  background: grey;
+}
+
+div {
+      height; 10em;
+      width; 10em;
+  background: Black;
+  display; inline-block;
+  animation; recolor 5s infinite;
+}
+      
+img{
+    display:none;
+}
+
+
+@keyframes recolor {
+        to {background: grey;}
+}
+
+#pink {
+  background: #ff66ff;
+}
+#orange {
+  background: #e65c00;
+}
