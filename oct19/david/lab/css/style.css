@@ -15,9 +15,8 @@ a:hover{
     display:inline-block;
     animation:recolor 5s infinite;
   }
-  #red {background:red;}
+  #orange {background:orange;}
   #yellow {background:yellow;}
-  #blue {background:blue;}
   
   @keyframes recolor {
     to {background:blue;}
