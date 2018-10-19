@@ -16,10 +16,9 @@ a:hover{
   div{
   height: 10em;
   width:10em;
-    background:violet;
- 
+  background:violet;
   margin:1em;
-  animation: recolor 5s inifinite;
+  animation:recolor 5s inifinite;
 }
 #blue {background:##f0e6ff;}
 #violet {background:#00cc44;}
