@@ -24,8 +24,8 @@ a:hover{
 #blue {background:##f0e6ff;}
 #violet {background:#00cc44;}
 
-@keyframes recolor {
-  to {background:red;}
+@keyframes recolor{
+  to{background:red;}
 }
 
 @media (max-width: 600px) {
