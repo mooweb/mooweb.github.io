@@ -1,6 +1,6 @@
 img{
   height: 10em;
-  width: 10em:
+  width: 10em;
 }
 a{
   text-decoration:none;
@@ -12,11 +12,12 @@ a:hover{
 div{
   height: 10em;
   width:10em;
-  gackground: lilac;
+  background: lilac;
   display:inline-block;
   animation:recolor 5s infinite;
 }
-#red {background:yellow;}
+#green {background:green;}
+#blue {background:blue;}
 @keyframes recolor {
   to{background:blue;}
 }
