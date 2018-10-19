@@ -1,1 +1,24 @@
+img{
+  height: 10em;
+  width: 10em:
+}
+a{
+  text-decoration:none;
+}
+a:hover{
+  text-decoration:underline;
+  background:blue;
+}
+div{
+  height: 10em;
+  width:10em;
+  gackground: lilac;
+  display:inline-block;
+  animation:recolor 5s infinite;
+}
+#red {background:yellow;}
+@keyframes recolor {
+  to{background:blue;}
+}
 
+  
