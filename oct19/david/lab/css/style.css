@@ -5,3 +5,20 @@ img{
 a{
   text-decoration:none;
 }
+a:hover{
+  text-decoration:underline;
+    background: yellow;
+  div{
+    height:10em;
+    width:10em;
+    background: red;
+    display:inline-block;
+    animation:recolor 5s infinite;
+  }
+  #red {background:red;}
+  #yellow {background:yellow;}
+  #blue {background:blue;}
+  
+  @keyframes recolor {
+    to {background:blue;}
+  }
