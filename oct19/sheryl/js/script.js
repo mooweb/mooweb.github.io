@@ -3,7 +3,7 @@ $(document).ready(function(){
    $('div').css({'border-radius':'10em'});
  });
   $('p').click(function(){
-    $('p').css({background-color':'teal'});
+    $('p').css({'background-color':'teal'});
    });
  });
  
