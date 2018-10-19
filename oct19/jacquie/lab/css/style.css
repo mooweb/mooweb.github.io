@@ -3,7 +3,7 @@ img {
   width: 14em;
 }
 a{
-  test-decoration:none
+  text-decoration:none;
 }
 a:hover {
   text-decoration: underline;
