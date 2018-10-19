@@ -8,6 +8,6 @@ div, img {height:12em;
 div {
   animation: recolor 5s infinite;
 }
-@keygrames recolor {
+@keyframes recolor {
   to {{background: yellow;}
   }
