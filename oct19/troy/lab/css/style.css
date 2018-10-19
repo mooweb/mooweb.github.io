@@ -1,1 +1,22 @@
 
+img{
+  height: 10em;
+  width:10em;
+  display:inline-block;
+  margin:1em;}
+a{
+  text-decoration: none;
+}
+a:hover{
+   text-decoration: underline;
+   background:blue;
+}
+
+  div{
+  height: 10em;
+  width:10em;
+  background: green;
+  display:inline-block;
+  margin:1em;
+  animation:recolor 5s inifinite;
+}
