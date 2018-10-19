@@ -18,7 +18,7 @@ a:hover{
   width:10em;
   background:violet;
   margin:1em;
-  animation:recolor 5s inifinite;
+  animation:recolor 5s infinite;
 }
 #blue {background:##f0e6ff;}
 #violet {background:#00cc44;}
