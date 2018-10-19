@@ -7,8 +7,7 @@ img{
 a{
   text-decoration: none;
 }
-@keyframes recolor {
-  to(background:blue;}
+
 a:hover{
    text-decoration: underline;
    background:#eee6ff;
@@ -25,3 +24,5 @@ a:hover{
 #blue {background:##f0e6ff;}
 #violet {background:#00cc44;}
 
+@keyframes recolor {
+  to(background:blue;}
