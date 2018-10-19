@@ -1,6 +1,6 @@
 img {
   height: 10em;
-  width: 10em;
+  width: 15em;
 }
 a {
   text-decoration: none;
@@ -21,3 +21,10 @@ div {
 @keyframes recolor {
   to {background:green;}
 }
+
+@media (max-width: 600px) {
+  body {
+      background: orange;
+  }
+}
+  
