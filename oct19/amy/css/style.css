@@ -1,6 +1,6 @@
 div, img {
-  height: 12em;
-  width: 12em;
+  height: 30em;
+  width: 30em;
   display: inline-block;
   margin: lem;
 }
@@ -13,5 +13,5 @@ div {
 }
 
 @keyframes recolor {
-  to {background: green;}
+  to {background: black;}
 }
