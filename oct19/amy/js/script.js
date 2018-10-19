@@ -4,7 +4,7 @@ $(document).ready(function(){
 });
 
   $('p').click(function(){
-    $('p').css({background':'purple'});
+    $('p').css({'background':'purple'});
                });
   });
   
