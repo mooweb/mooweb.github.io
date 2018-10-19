@@ -1,1 +1,23 @@
+img {
+  height: 10em;
+  width: 10em;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  background: pink;
+}
+div {
+  height: 10em;
+  width: 10em;
+  background: pink;
+  display: inline-block;
+  animation: recolor 6s infinite;
+}
+#red{background: red;}
 
+@keyframes recolor {
+  to {background:green;}
+}
