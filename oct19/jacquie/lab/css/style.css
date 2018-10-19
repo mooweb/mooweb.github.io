@@ -21,3 +21,7 @@ a:hover {
   @keyframes recolor {
     to {background: blue;}
   }
+@media (max-width: 600px) {
+  body {
+    background: lightblue;
+  }}
