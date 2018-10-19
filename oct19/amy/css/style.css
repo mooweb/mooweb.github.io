@@ -13,5 +13,5 @@ div {
 }
 
 @keyframes recolor {
-  ti background: green;}
+  to {background: green;}
 }
