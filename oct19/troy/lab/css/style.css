@@ -16,7 +16,7 @@ a:hover{
   div{
   height: 10em;
   width:10em;
-  background: green;
+ 
   display:inline-block;
   margin:1em;
   animation: recolor 5s inifinite;
