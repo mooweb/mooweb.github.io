@@ -27,3 +27,8 @@ div {
   to{background:purple;}
 }
 
+@media (max-width: 600px) {
+  body {
+    background: yellow;
+  }
+}
