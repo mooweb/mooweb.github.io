@@ -3,6 +3,6 @@ $('#rounded').click(function(){
   $('div'.css({'border-radius':'10em'});
     });
   $('p').click(function(){
-  $('#p').css({'background-color':'blue'});
+  $('#custom').css({'background-color':'blue'});
   });
 });
