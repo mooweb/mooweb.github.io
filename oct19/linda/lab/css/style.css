@@ -1,6 +1,6 @@
 img {
   height: 10em;
-  width: 10em;
+  width: 13em;
 }
 a {
   text-decoration: none;
@@ -11,7 +11,7 @@ a:hover {
 }
 div {
   height: 10em;
-  width: 10em;
+  width: 13em;
   background: pink;
   display: inline-block;
   animation: recolor 6s infinite;
