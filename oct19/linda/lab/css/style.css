@@ -16,7 +16,7 @@ div {
   display: inline-block;
   animation: recolor 6s infinite;
 }
-#red{background: red;}
+#red{background: purple;}
 #yellow {background:yellow;}
 @keyframes recolor {
   to {background:green;}
