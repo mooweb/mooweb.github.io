@@ -5,4 +5,4 @@ $(document).ready(function(){
  $('p').click(function(){
    $('#custom').css({'background-color':'blue'});
    });
-)}:
+});
