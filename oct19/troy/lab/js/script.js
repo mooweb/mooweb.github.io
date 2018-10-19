@@ -4,7 +4,7 @@ $('div').click(function(){
 });
                 
  $('button').click(function(){
-                $("body').css({'background':'blue'});
+                $('body').css({'background':'blue'});
                })
 });
 
