@@ -12,7 +12,7 @@ a:hover{
     height:10em;
     width:10em;
     background: red;
-    display:inline-block;
+    display: inline-block;
     animation:recolor 5s infinite;
   }
   #orange {background:orange;}
