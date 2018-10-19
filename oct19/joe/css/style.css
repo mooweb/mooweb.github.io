@@ -1,1 +1,16 @@
+div, ing {
+  height: 12em;
+  width:12em;
+  display: inline-block;
+  margin: 1em;
+}
+
+#red {background: #ff0000;}
+#yellow {background: #ffcc00;}
+ div {
+   animation: recolor 5s infinite;
+}
+@keyframes recolor {
+  to {background: yellow;}
+}
 
