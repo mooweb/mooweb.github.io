@@ -25,4 +25,4 @@ a:hover{
 #violet {background:#00cc44;}
 
 @keyframes recolor {
-  to(background:blue;}
+  to {background:blue;}
