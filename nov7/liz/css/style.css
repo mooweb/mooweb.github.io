@@ -4,6 +4,7 @@ div, img {
   display: inline-block;
   margin: 1em;
 }
+
 div{
   animation: recolor 5s infinite;
 }
@@ -11,3 +12,12 @@ div{
 @keyframes recolor{
   to{background: green;}
 }
+
+#blue {
+  background: blue;
+}
+
+#purple {
+  background: purple;
+}
+
