@@ -10,7 +10,7 @@ div {
     }
 
 @keyframes recolor {
-  to{background: orange;}
+  to{background: green;}
 }
 
 #red{
