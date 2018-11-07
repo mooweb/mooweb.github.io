@@ -5,6 +5,6 @@ $(document).ready(function(){
     $('img').click(function(){
       $('img').css({'border-radius': '100px'});
     });
-  $('bunnton').click(function(){
+  $('button').click(function(){
     $('body').css({'background':'aqua'});
   });
