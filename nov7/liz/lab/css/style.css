@@ -10,7 +10,7 @@ a:hover{
 div{
   height: 10em;
   width: 10em;
-  background: purple;
+  background: green;
   display: inline-block;
   animation: recolor 5s infinite;
 }
@@ -18,7 +18,7 @@ div{
   background: red;
 }
 @keyframes recolor {
-  to{background:purple;}
+  to{background:green;}
 }
 @media only screen and (max-width: 600px){
   body{
