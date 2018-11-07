@@ -12,3 +12,11 @@ div{
 @keyframes recolor {
   to{backround:yellow;}
 }
+
+#red {
+  backround: red;
+}
+#orange {
+  backround: orange;
+}
+  
