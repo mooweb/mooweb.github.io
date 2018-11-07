@@ -3,7 +3,7 @@ $(document).ready(function(){
     $(this).hide(){
     });
   $('img').click(funtion(){
-     $('body').css({'border-radius':'100px});
+     $('body').css({'border-radius':'100px'});
    });
   
 
