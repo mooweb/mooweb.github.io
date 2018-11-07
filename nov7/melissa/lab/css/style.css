@@ -16,7 +16,7 @@ div {
   height: 10em;
   width: 10em;
   background:grey;
-  display: inline-black;
+  display: inline-block;
   animation: recolor 5s infinite;
 }
 
