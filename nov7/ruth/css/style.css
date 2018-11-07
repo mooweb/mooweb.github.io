@@ -12,3 +12,11 @@ div {
 @keyframes recolor {
   to{background:yellow;}
 }
+
+#purple {
+  background: purple;
+}
+
+#orange {
+  background: orange;
+}
