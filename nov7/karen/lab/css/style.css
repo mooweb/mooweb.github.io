@@ -1,1 +1,32 @@
+img {
+   height: 10em;
+  width: 10em;
+}
+a{
+  text-decoration: none
+}
+a:hover {
+  text-decoration: underline;
+  background: orange;
+}
+div{
+  height: 10em;
+  weight: 10em;
+  background: Green;
+  display: inline-block;
+  animation: recolor 5s infinite;
+}
+#orange {
+  background: orange
+}
+@keyframe recolor {
+  to {background: green;}
+}
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: green;
+  }
+}
+   
 
+ 
