@@ -8,7 +8,8 @@ $(document).ready(function(){
     });
   
     $('button').click(function(){
-     $('body').css({'background':'red'});
+      $(this).toggleClass('red');
+     
    });
   
   
