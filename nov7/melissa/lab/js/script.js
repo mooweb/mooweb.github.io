@@ -2,7 +2,7 @@ $(document).ready(function(){
   $('div').click(function(){
     $(this).hide();
     });
-  $('img').click(funtion(){
+  $('img').click(function(){
      $('body').css({'border-radius':'100px'});
    });
   
