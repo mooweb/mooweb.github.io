@@ -6,5 +6,9 @@ $(document).ready(function(){
      $('img').css({'border-radius':'100px'});
    });
   
+  $('button').click(function(){
+    $('body').css({'background':'aqua'});
+  }); 
+  
 
 });
