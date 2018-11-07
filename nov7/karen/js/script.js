@@ -4,7 +4,7 @@ $(document).ready(function(){
   });
   
   $('#animate').click(function(){
-    $('div').css({'border-radious':'100px'});
+    $('div').css({'border-radius':'100px'});
   });             
     
 });
