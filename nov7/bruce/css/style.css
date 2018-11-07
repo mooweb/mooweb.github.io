@@ -8,6 +8,10 @@ div, img {
 div {
   animation: recolor 5s infinite;
 }
+d@keyframes recolor {
+  to {background: green;}
+}
+  
 #red{
   background:#ff0000;
 }
