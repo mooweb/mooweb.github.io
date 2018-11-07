@@ -19,7 +19,7 @@ div{
 }
 #orange {
   backround: orange;
-  
+}  
   @media only screen and (max-width:600px){
     body{
       backround-color: green;
