@@ -12,12 +12,11 @@ a:hover {
 div{
   height: 10em;
   weight: 10em;
-  background: Green;
-  display: inline-block;
+    display: inline-block;
   animation: recolor 5s infinite;
 }
 #orange {
-  background: orange
+  background: orange;
 }
 @keyframe recolor {
   to {background: green;}
