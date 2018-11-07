@@ -6,6 +6,6 @@ $(document).ready(function(){
   $('body').css({'border-radius': '100px'});
                 });                  
  $('button').click(function(){
-   $('body').css({background':'green'});
+   $('body').css({'background':'green'});
                  });
 });
