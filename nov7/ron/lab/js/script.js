@@ -4,9 +4,12 @@ $(document).ready(function(){
     });
     
     $('img').click(function(){
-      $('body').css({'border-radius':'100px'});
+      $('img').css({'border-radius':'100px'});
     });
   
+    $('button').click(function(){
+     $('body').css({'background':'red'});
+   });
   
   
   
