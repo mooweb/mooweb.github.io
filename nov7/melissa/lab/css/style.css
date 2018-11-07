@@ -1,6 +1,7 @@
 img {
   height: 10em;
   width: 10em;
+  display: inline-block;
 }
 
 a {
