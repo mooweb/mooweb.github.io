@@ -24,5 +24,15 @@ div{
   body{
     background: green;
   }
+  
+  #purple{
+  background: purple;
+}
+@keyframes recolor {
+  to{background:red;}
+}
+@media only screen and (max-width: 600px){
+  body{
+    background: green;
 }
 
