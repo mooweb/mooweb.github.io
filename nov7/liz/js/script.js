@@ -8,7 +8,7 @@ $(document).ready(function(){
   });
   
   $('p').click(function(){
-    $('#custom').css({background-color':'yellow'});
+    $('#custom').css({'background-color':'yellow'});
   });
     
 });
