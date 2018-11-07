@@ -13,6 +13,16 @@ a:hover{
   background:yellow;
 }
 
+b {
+  text-decoration: underline;
+}
+
+
+b:hover{
+  text-decoration:none;
+  background:green;
+
+
 div{
   height:10em;
   width:10em;
