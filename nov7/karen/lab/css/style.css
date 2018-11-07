@@ -17,6 +17,8 @@ div{
 }
 #green {
   background: green;
+#orange {
+  background: orange;
 }
 @keyframe recolor {
   to {background: blue;}
