@@ -7,7 +7,10 @@ $(document).ready(function(){
   $('#animate').click(function(){
     $('div').css({'border-radius':'100px'});
   }); 
-    
+ 
+    $('#rounded').click(function(){
+    $('div').css({'border-radius':'10em'});
+  }); 
     
     
 });
