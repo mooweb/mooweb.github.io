@@ -1,6 +1,6 @@
 $(document).ready(function(){
 $('div').click(function(){
-  $(this).slideup();
+  $(this).slideUp();
   });
   
   $('img').click(function(){
