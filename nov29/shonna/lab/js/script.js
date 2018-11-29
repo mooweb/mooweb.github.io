@@ -6,4 +6,8 @@ $(document).ready(function(){
   $('img').click(function(){
     $('img').css({'border-radius':'10em'});
   });
+  
+  $('button').click(function(){
+    $('img').toggle();
+  });
 });
