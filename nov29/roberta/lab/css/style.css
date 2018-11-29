@@ -5,9 +5,9 @@ body{
 }
    
 div, img{
-  height: 10em;
-  width: 10em;
-  margin: 1em;
+  height: 16em;
+  width: 16em;
+  margin: 2em;
 }
 
 a {text-decoration: none;}
