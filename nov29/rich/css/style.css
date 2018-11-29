@@ -10,3 +10,25 @@ div {animation:recolor 5s infinite;}
 
 #blue {background:blue;}
 #red {background:red;}
+
+#button {
+  padding:.5em;
+  border-radius: 1em;
+}
+
+#rounded {
+  background: purple;
+  color: blue;
+}
+
+#background {
+  background: orange;
+  color: green;
+}
+#animate {
+  background: yellow;
+  color: pink;
+}
+ button:hover {
+   box-shadow: .5em, .5em gray;
+}
