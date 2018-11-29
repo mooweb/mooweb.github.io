@@ -1,3 +1,9 @@
+body{
+  background:url('https://images.pexels.com/photos/207049/pexels-photo-207049.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+   
 div, img{
   height: 10em;
   width: 10em;
