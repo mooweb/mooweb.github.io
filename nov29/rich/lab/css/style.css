@@ -1,3 +1,8 @@
+body {
+   background: url('https://images.pexels.com/photos/372098/pexels-photo-372098.jpeg');
+   background-repeat: no-repeat;
+   background-size: cover;
+}
 img {
   height: 10em;
   width: 10em;
