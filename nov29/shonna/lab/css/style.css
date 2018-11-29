@@ -36,7 +36,7 @@ div{
     background-repeat: no-repeat;
     background-size: cover;
   }
-  div {
+  #red, #orange, #yellow, #green {
     background: url('https://images.pexels.com/photos/459522/pexels-photo-459522.jpeg');
    }
 }
