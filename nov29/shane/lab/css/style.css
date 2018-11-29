@@ -1,6 +1,38 @@
-div, img {
-  height: 12em;
-  width: 12em;
+img {
+  height: 10em;
+  width: 10em;
   display: inline-block;
   margin: 1em;
+}
+
+a{text-decoration: none;}
+a:hover{
+  text-decoration:underline;
+  background:yellow;
+}
+
+div{
+  height: 10em;
+  width: 10em;
+  background: blue;
+  display:inline-block;
+  animation: recolor 5s 30s;
+}
+
+#green-paragraph{
+  background: green;
+}
+
+#orange-paragrah{
+  background:orange;
+}
+
+@keyframes recolor{
+  to{background:purple;}
+}
+
+@media only screen and (max-width: 600px){
+  body {
+    background-color: green;
+  }
 }
