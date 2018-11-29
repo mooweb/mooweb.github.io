@@ -3,7 +3,7 @@ $(document).ready(function(){
     $(this).hide(){
 });
 $('img').click(function(){
-  $('igm.css({'border-radius':100px'});
+  $('img.css({'border-radius':100px'});
 });
   });  
   
