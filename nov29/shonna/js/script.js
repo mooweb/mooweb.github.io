@@ -3,6 +3,6 @@ $(document).ready(function(){
     $('div').css({'border-radius':'10em'});
   });
   $('p').click(function(){
-    $('#custom').({'background':'yellow'});
+    $('#custom').css({'background':'yellow'});
   });
 });
