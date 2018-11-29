@@ -5,4 +5,7 @@ $('#rounded').click(function(){
   $('p').click(function(){
     $('#custom').css({'background':'yellow'});
   });
+  $('div').click(function(){
+    $(this).fadeOut('slow');
+  });
 });
