@@ -6,6 +6,6 @@ $('#rounded').click(function(){
     $('#custom').css({'background':'yellow'});
   });
   $('div').click(function(){
-    $(this).fadeOut('slow');
+    $(this).fadeOut(slow);
   });
 });
