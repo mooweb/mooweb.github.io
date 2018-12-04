@@ -6,4 +6,7 @@ $(document).ready(function(){
 $('p').click(function(){
   $('#custom').css({'background':'yellow'});
 });
+  $('div').click(function(){
+    $(this).hide();
+  });
 });
