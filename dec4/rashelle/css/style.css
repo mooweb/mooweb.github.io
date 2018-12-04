@@ -10,6 +10,14 @@ div {animation: recolor 5s infinite}
 #orange {background: orange;} 
 
 @media only screen and (max-width: 600px){
-  body {background:gray}
+  body {background:green}
   p {font-size:5em}
   }
+
+button{
+  background:pink;
+  padding: 1em;
+  border-radius:2em;
+  box-shadow:5px 5px
+    5px gray
+}
