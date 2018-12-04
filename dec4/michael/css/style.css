@@ -5,10 +5,10 @@ div,img {
   margin: 1em;
 }
 div {animation: recolor 5s infinte}
-  @keyframes recolor{to {background: green;}}
+  @keyframes recolor{to {background:green;}}
 
-  #red {background: red;}
-  #green {background: green;}
+  #red {background:red;}
+  #green {background:green;}
 @media only screen and (max-width: 600px){
   body {bacground:green}
   p {font-size:5em}
