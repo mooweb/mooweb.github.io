@@ -15,11 +15,11 @@ div {animation:recolor 5s infinite;}
   body {background: green}
 }
 
-button{
-  background: color; 
-  padding: lem; 
+button {
+  background: purple; 
+  padding: 1em; 
   border-radius: 2em; 
-  box-shadow: 5px 5px 5px 5px gray
+  box-shadow: .5em .5em .5em gray;
 }
 
 
