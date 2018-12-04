@@ -1,5 +1,5 @@
 $(document).ready(function(){
-$('#rounded').click(function(){
+$('button').click(function(){
   $('div').css({'border-radius':'10em'});
 });
 $('p').click(function(){
