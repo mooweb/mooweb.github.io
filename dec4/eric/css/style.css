@@ -13,6 +13,7 @@ div {animation: recolor 5s infinite;}
 @media only screen and (max-width: 600px){
   body {background:green}
   p {font-size:5em}
+}
 
   button{
     background: pink;
@@ -22,3 +23,4 @@ div {animation: recolor 5s infinite;}
   }
   
   img:hover[border-radius:12em;}
+}
