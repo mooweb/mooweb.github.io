@@ -15,7 +15,7 @@ div {
   width: 10em;
   background: blue;
   display: inline-block;
-  animation: recolor 5s infinite;
+  animation: recolor 1s infinite;
 }
 
 #red {
@@ -27,7 +27,11 @@ div {
 }
 
 @keyframes recolor {
-  to {background: green;}
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
 }
 
 @media only screen and (max-width: 600px) {
