@@ -22,12 +22,8 @@ div {
   background: red;
 }
 
-#green {
-  background: green;
-}
-
-#blue {
-  background: blue;
+#yellow {
+  background: yellow;
 }
 
 @keyframes recolor {
