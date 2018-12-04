@@ -23,3 +23,5 @@ button {
   box-shadow: .5em .5em .5em gray;
 }
 
+img:hover{border-radius:12em;}
+
