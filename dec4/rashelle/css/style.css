@@ -8,3 +8,8 @@ div {animation: recolor 5s infinite}
 @keyframes recolor {to {background: blue;}}
 #yellow {background: red;}
 #orange {background: orange;} 
+
+@media only screen and (max-width: 600px){
+  body {background:gray}
+  p {font-size:5em}
+  }
