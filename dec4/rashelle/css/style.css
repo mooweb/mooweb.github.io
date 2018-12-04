@@ -5,6 +5,6 @@ div, img {
   margin: 1em;
 }
 div {animation: recolor 5s infinite}
-@keyframes recolor {to {background: black;}}
+@keyframes recolor {to {background: blue;}}
 #red {background: red;}
 #orange {background: orange;} 
