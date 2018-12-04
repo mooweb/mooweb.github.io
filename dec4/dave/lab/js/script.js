@@ -6,6 +6,6 @@ $(document).ready(function(){
     $('img').css({'border-radius':'100px'});
   });
   $('button').click(function(){
-    $('img').fadeout('slow');
+    $('img').fadeOut('slow');
   });
 });
