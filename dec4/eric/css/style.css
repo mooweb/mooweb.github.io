@@ -18,7 +18,7 @@ div {animation: recolor 5s infinite;}
     background: blue;
     padding: 1em;
     border-radius: 2em;
-    box-shadow: .5em .5em .5em gray;
+    box-shadow: 5px 5px 5px gray;
   }
   
   img:hover[border-radius:12em;}
