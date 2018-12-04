@@ -12,6 +12,7 @@ div {animation: recolor 5s infinte}
 @media only screen and (max-width: 600px){
   body {bacground:green}
   p {font-size:5em}
+}
 
   button {
     background: pink;
