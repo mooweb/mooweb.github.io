@@ -5,4 +5,8 @@ $('button').click(function(){
 $('p').click(function(){
   $('#custom').css({'background':'green'});
 });
+  $('div').click(function(){
+    $(this).hide();
+  });
 });
+
