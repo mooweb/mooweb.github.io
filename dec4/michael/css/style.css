@@ -10,7 +10,7 @@ div {animation: recolor 5s infinte}
   #red {background:red;}
   #green {background:green;}
 @media only screen and (max-width: 600px){
-  body {bacground:green}
+  body {bacground:green;}
   p {font-size:5em}
 }
 
