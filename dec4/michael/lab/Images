@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML iMAGES!</title>
+    </head>
+    <body>
+    
+    <h1>This how do HTML images</h1>
+    
+    <p>Hey everyone, check this awesome image out:</p>
+    
+    <img src="images/carrots.jpg"> 
+    
+    
+    </body>
+</html>    
