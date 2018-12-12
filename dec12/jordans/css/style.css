@@ -1,1 +1,23 @@
+p {
+  color: FE2AC1;
+  font-size: 2em;
+}
 
+img{
+  height: 10em;
+  width: 12em;
+}
+
+div{
+  height: 10em;
+  width: 12em;
+  margin: 1em;
+}
+
+#red{
+  background: red;
+}
+
+#purple{
+  background: purple;
+}
