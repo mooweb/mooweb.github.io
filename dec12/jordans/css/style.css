@@ -27,3 +27,9 @@ div{animation: recolor 5s infinite;}
 @keyframes recolor{
   to {background: green;
   }
+  
+  @media only screen and (max-width: 600px) {
+    body{
+      background: url('https://images.pexels.com/photos/19677/pexels-photo.jpg');
+    }
+  }
