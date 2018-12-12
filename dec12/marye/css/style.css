@@ -32,3 +32,10 @@ div {
   }
 }
 
+@media only screen and (max-width: 600px) {
+  body {
+    background: url('https://images.pexels.com/photos/162149/dog-black-labrador-black-dog-162149.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
