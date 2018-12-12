@@ -33,6 +33,18 @@ div {
   }
 }
 
+button {
+  border-radius: 1em;
+  padding: 1em;
+  background: black;
+  color: white;
+}
+
+button:hover {
+  box-shadow: .5em .5em .5em gray;
+}  
+
+
 @media only screen and (max-width: 600px) {
   body {
     background: url('https://images.pexels.com/photos/1235706/pexels-photo-1235706.jpeg');
