@@ -5,6 +5,7 @@ P {
 img {
   height: 10em;
   width: 10em;
+  display: none;
 }
 
 div {
