@@ -26,7 +26,7 @@ div {animation: recolor 5s infinite;}
 
 @media only screen and (max-width: 600px) {
   body {
-    background: url('https://images.pexels.com/photos/5836/yellow-metal-design-decoration.jpg' ) pink;
+    background: url('https://images.pexels.com/photos/775907/pexels-photo-775907.jpeg' ) pink;
       background-size: cover;
       background-repeat: no-repeat;
   }
