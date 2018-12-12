@@ -6,6 +6,7 @@ p {
 img {
   height: 10em;
   width: 16em;
+  display: none;
 }
 
 div {
@@ -39,3 +40,4 @@ div {
     background-repeat: no-repeat;
   }
 }
+
