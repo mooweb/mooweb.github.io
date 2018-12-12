@@ -4,6 +4,6 @@ $(document).ready(function(){
    $('img').css({'border-radius':'10em'});
  });
  $('body').click(function(){
-   $('body').css({'background':#6d4c5b});
+   $('body').css({'background':'#6d4c5b'});
  });
 });
