@@ -28,3 +28,11 @@ div {
 @keyframes recolor {
   to {background: red;
   }}
+
+@media only screen and (max-width: 600px) {
+  body{
+    background: url('https://images.pexels.com/photos/1235706/pexels-photo-1235706.jpeg);
+      background-size: cover;
+      background-repeat: no repeat;
+      }
+}
