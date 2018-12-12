@@ -3,6 +3,6 @@ $('img').fadeIn(3000);
   $('button').click(function(){
     $('img').css({'border-radius':'10em'});
   });
-  $('body').click(function)(){
+  $('body').click(function(){
     $('body').css({'background':'red'});
 });
