@@ -5,6 +5,7 @@ $(document).ready(function(){
     
 });
   $('body').click(function)(){
-    $('body').css({background':'blue';});
+    $('body').css({background':'blue';
+                  });
 });
 
