@@ -6,3 +6,4 @@ $('img').fadeIn(3000);
   $('body').click(function(){
     $('body').css({'background':'red'});
 });
+});
