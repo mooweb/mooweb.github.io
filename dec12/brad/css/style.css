@@ -33,6 +33,6 @@ div {
   body{
     background: url('https://images.pexels.com/photos/1235706/pexels-photo-1235706.jpeg');
       background-size: cover;
-      background-repeat: no repeat;
+      background-repeat: no-repeat;
       }
 }
