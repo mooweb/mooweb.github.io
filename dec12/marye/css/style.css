@@ -33,6 +33,17 @@ div {
   }
 }
 
+button {
+  border-radius: 1em;
+  padding: 1em;
+  background: black;
+  color: white;
+}
+
+button:hover {
+  box-shadow: .5em .5em .5em pink;
+}
+
 @media only screen and (max-width: 600px) {
   body {
     background: url('https://images.pexels.com/photos/162149/dog-black-labrador-black-dog-162149.jpeg');
