@@ -29,6 +29,16 @@ div {animation: recolor 5s infinite;}
   }
 }
 
+button {
+  border-radius: 1em;
+  padding: 1em;
+  background: orange;
+  color: white;
+}
+button:hover {
+  box-shadow: .5em .5em .5em yellow;
+}
+
 @media only screen and (max-width: 600px) {
   body {
     background: url('https://images.pexels.com/photos/1671368/pexels-photo-1671368.jpeg');
