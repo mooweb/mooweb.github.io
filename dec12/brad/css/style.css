@@ -1,1 +1,22 @@
+p {
+color: #ff0000;
+  font-size: 2em;
+}
 
+img {
+  height: 10em; 
+  width: 10em;
+}
+
+div {
+  height: 10em;
+  witdth: 10em;
+  margin: 1em;
+}
+
+#seabrease {
+  background: green;
+}
+#lavender {
+  background: purple;
+}
