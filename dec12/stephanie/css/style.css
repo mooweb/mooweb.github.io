@@ -20,3 +20,20 @@ background: red;
 
 #blue{background:blue;
 }
+div {
+  animation: recolor 5s infinite;
+}
+@keyframes recolor {
+  to {
+    background: green;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: url('https://images.pexels.com/photos/210095/pexels-photo-210095.jpeg');
+ background: url('https://images.pexels.com/photos/33109/fall- autumn-red-season.jpg;'
+   background-size: cover;
+   background-repeat: no-repeat;
+  }
+}
