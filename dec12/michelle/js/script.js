@@ -1,5 +1,5 @@
 $(document).ready(function(){
- $('img').fadeIn('slow');
+ $('img').fadeIn('7000');
  $('button').click(function(){
  $('img').css({'border-radius':'10em'});
  });
