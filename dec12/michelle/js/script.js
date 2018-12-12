@@ -3,8 +3,8 @@ $(document).ready(function(){
  $('button').click(function(){
  $('img').css({'border-radius':'10em'});
  });
-$('body').click(function)(){
- $('body').css({'background';'red'});
+$('body').click(function(){
+ $('body').css({'background':'red'});
 });
 });
 
