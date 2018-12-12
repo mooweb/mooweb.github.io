@@ -27,3 +27,9 @@ div {animation: recolor 5s infinite;}
   to {background: green;
   }
 }
+
+@media only screen and (max-width: 600px) {
+  body {
+    background: ;
+  }
+}
