@@ -1,6 +1,6 @@
 p {
   color: #29a329;
-font-size: 1em;
+font-size: 2em;
 }
 
 imp {
@@ -15,6 +15,6 @@ div {
 }
 
 #red {
-  background: grey;
+  background: purple;
 }
 #orange {background: blue;}
