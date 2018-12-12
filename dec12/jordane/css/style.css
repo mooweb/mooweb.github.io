@@ -30,6 +30,8 @@ div {animation: recolor 5s infinite;}
 
 @media only screen and (max-width: 600px) {
   body {
-    background: ;
+    background: url('https://images.pexels.com/photos/1671368/pexels-photo-1671368.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
   }
 }
