@@ -9,14 +9,17 @@ img {
 }
 
 div {
-  height: 4em;
-  width: 10em;
+  height: 12em;
+  width: 15em;
   margin: 1em;
 }
 
-#red {
-  background: purple;
-}
-#green {
-  background: orange;
+#red {background: purple;}
+
+#green {background: orange;}
+
+div {animation: recolor 5s infinite;}
+
+@keyframes recolor {
+  to {background: green;}
 }
