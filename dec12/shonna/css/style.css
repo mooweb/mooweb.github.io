@@ -30,4 +30,11 @@ div {
   }
 }
 
+@media only screen and (max-width: 600px) {
+  body {
+    background: url('https://images.pexels.com/photos/449627/pexels-photo-449627.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
 
