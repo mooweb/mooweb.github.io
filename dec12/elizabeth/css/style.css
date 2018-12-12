@@ -1,1 +1,23 @@
+p {
+  color: #147A4E;
+  font-size: 2.5em;
+}
 
+img {
+  height: 7em;
+  width: 13em;
+}
+
+div {
+  height: 7em;
+  width: 13em;
+  margin: 1em;
+}
+
+#pink {
+  background: #edc536;
+}
+
+#purple {
+  background: #b71651;
+}
