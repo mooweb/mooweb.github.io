@@ -1,1 +1,22 @@
+P {
+  color: #336699;
+  font-size: 2em;
+}
+img {
+  height: 10em;
+  width: 10em;
+}
 
+div {
+  height: 10em;
+  width: 10em;
+  margin: 1em;
+}
+
+#green {
+  background: green;
+}
+
+#blue {
+  background: blue;
+}
