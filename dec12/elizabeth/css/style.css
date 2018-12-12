@@ -6,6 +6,7 @@ p {
 img {
   height: 35em;
   width: 65em;
+  display: none;
 }
 
 div {
