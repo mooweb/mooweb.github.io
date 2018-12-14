@@ -13,6 +13,7 @@ div {
   height: 12em;
   width: 15em;
   margin: 1em;
+  display: inline-block;
 }
 
 #red {background: purple;}
