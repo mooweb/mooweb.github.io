@@ -29,3 +29,12 @@ button {
   background: yellow;
   color: orange;
 }
+
+@media only screen and (max-width: 600px){
+  body {
+    background: url('https://images.pexels.com/photos/434283/pexels-photo-434283.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
