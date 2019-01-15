@@ -29,3 +29,10 @@ color:yellow;
   background: teal;
   color: coral;
 }
+
+@media only screen and (max-wildth: 600px){
+  body{
+    background: url('https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg');
+  }
+}
+
