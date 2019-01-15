@@ -29,3 +29,9 @@ button {
   background: blue;
   color: white;
 }
+
+@media only screen and (max-width: 600px){
+  body {
+    background: url('https://images.pexels.com/photos/938258/pexels-photo-938258.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+  }
+}
