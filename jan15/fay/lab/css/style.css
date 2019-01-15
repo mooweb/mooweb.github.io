@@ -24,5 +24,7 @@ div{
 
 @mediaonly screen and (max-width: 600px){
   body{
-    background: url{
+    background: url('https://images.pexels.com/photos/4827/nature-forest-trees-fog.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
 
