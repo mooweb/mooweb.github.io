@@ -11,6 +11,23 @@ div,img{
 @keyframes recolor{to{background:yellow;}}
 
 
+button{
+  border-radius: 2em;
+}
 
+#rounder {
+  background: green;
+  color: black;
+}
+
+#animate { 
+  background: orange;
+  color: purple;
+}
+
+#hide{
+  background: blue;
+  Color: white;
+}
 
   
