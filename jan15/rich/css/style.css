@@ -32,6 +32,6 @@ button {
 
 @media only screen and (max-width: 600px) {
   body {
-    background-color: green;
+    background: url('https://images.pexels.com/photos/269370/pexels-photo-269370.jpeg');
   }
 }
