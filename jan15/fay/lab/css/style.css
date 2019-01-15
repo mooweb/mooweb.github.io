@@ -11,7 +11,7 @@ a:hoover{
 div{
   heigh: 10em;
   width: 10em;
-  background: INSERT COLOR;
+  background: tan;
   display: inline-block;
   animation: recolor 5s infinite;
 }
@@ -19,7 +19,7 @@ div{
   background: green;
 }
 @keyframes recolor{
-  to {background: INSERT COLOR;}
+  to {background: tan;}
 }
 
 @mediaonly screen and (max-width: 600px){
@@ -27,4 +27,5 @@ div{
     background: url('https://images.pexels.com/photos/4827/nature-forest-trees-fog.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
-
+  }
+}
