@@ -1,1 +1,28 @@
+img{
+  height: 10em;
+  width: 10em;
+} 
+a {text-decorations: none;}
+
+a:hoover{
+  text-decoration: underline;
+  background: tan;
+}
+div{
+  heigh: 10em;
+  width: 10em;
+  background: INSERT COLOR;
+  display: inline-block;
+  animation: recolor 5s infinite;
+}
+#green{
+  background: green;
+}
+@keyframes recolor{
+  to {background: INSERT COLOR;}
+}
+
+@mediaonly screen and (max-width: 600px){
+  body{
+    background: url{
 
