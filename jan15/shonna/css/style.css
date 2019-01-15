@@ -10,4 +10,22 @@ div,img{
 
 div{animation: recolor 5s infinite;}
 @keyframes recolor {to {background: orange;}}
-    
+
+button {
+  border-radius: 2em;
+}
+
+#rounded {
+  background: green;
+  color: white;
+}
+
+#animate {
+  background: red;
+  color: white;
+}
+
+#hide {
+  background: yellow;
+  color: orange;
+}
