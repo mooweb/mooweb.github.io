@@ -1,1 +1,16 @@
+div,img{ 
+  Height: 12em;
+  Width:  12em;
+  display: inline-block;
+  margin: 1em;
+}
+#teal {background:#009999;}
+#red {background:red;}
+  
+  div{animation: recolor 5s infinite;}
+@keyframes recolor{to{background:yellow;}}
 
+
+
+
+  
