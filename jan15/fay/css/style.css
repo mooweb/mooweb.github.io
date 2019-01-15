@@ -32,7 +32,7 @@ button{
 
   @media only screen and (max-width: 600px){
     body{
-      bacground: url('https://images.pexels.com/photos/50582/selfie-monkey-self-portrait-macaca-nigra-50582.jpeg');
+      background: url('https://images.pexels.com/photos/50582/selfie-monkey-self-portrait-macaca-nigra-50582.jpeg');
       background-size: cover;
       bacgfround-repeat: no-repeat;
     }
