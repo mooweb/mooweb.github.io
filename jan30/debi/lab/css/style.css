@@ -1,1 +1,8 @@
 
+div {
+  height:10em;
+  width: 10em;
+  background: pink;
+  display: inline-block;
+  animation: recolor 5s infinate:
+}
