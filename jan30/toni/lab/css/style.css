@@ -6,17 +6,17 @@ a{text-decoration: none;}
 
 a:hover {
   text-decoration: underline;
-  background: yellow;
+  background: blue;
 }
 
 div {
   hight: 10em;
-  width: 10 em;
+  width: 10em;
   background: 229DCF;
   display: inline-block;
   animation: recolor 5s infinite;
 }
 
 #teal {
-  backfound: Teal;
+  background: Teal;
 }
