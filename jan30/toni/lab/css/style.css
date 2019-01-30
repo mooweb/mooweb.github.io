@@ -1,1 +1,22 @@
+{img
+  height: 10em;
+  width: 10em;
+}
+a{text-decoration: none;}
 
+a:hover {
+  text-decoration: underline;
+  background: yellow;
+}
+
+div {
+  hight: 10em;
+  width: 10 em;
+  background: 229DCF;
+  display: inline-block;
+  animation: recolor 5s infinite;
+}
+
+#teal {
+  backfound: Teal;
+}
