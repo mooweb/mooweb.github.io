@@ -6,4 +6,4 @@ $('p').click(function(){
   $('#custom').css({'background':'yellow'})
   });
  $('img').fadeOut();
-)};
+});
