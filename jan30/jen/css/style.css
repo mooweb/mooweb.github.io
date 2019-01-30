@@ -26,13 +26,7 @@ div {
 @keyframes recolor {
   to {background: pink;}
 }
-
-@media only screen and (max-width: 600px) {
-  body{
-    background-color: green;
-  }
-}
-   
+  
 
 #green {background:green;}
 #blue {background:blue;}
