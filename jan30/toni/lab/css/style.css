@@ -21,3 +21,7 @@ div {
 #teal {
   background: teal;
 }
+
+@keyframes recolor {
+  to {background: #289919;}
+}
