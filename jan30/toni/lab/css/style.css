@@ -2,15 +2,16 @@
   height: 10em;
   width: 10em;
 }
+
 a{text-decoration: none;}
 
 a:hover {
   text-decoration: underline;
-  background: blue;
+  background: 836EC9;
 }
 
 div {
-  hight: 10em;
+  height: 10em;
   width: 10em;
   background: 229DCF;
   display: inline-block;
@@ -18,5 +19,5 @@ div {
 }
 
 #teal {
-  background: Teal;
+  background: teal;
 }
