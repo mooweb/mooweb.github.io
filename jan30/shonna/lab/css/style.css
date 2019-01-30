@@ -1,1 +1,32 @@
+img {
+  height: 10em;
+  width: 10em;
+}
+
+a {text-decoration:none;}
+
+a:hover {
+  text-decoration: underline;
+  background: blue;
+}
+
+div {
+  height: 10em;
+  width: 10em;
+  display: inline-block;
+  animation: recolor 5s infinite;
+}
+
+#orange{background: orange;}
+#yellow{background: yellow;}
+
+@keyframes recolor {
+  to{background:red;}
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background:url('https://images.pexels.com/photos/936611/pexels-photo-936611.jpeg');
+  }
+}
 
