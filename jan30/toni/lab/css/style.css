@@ -1,4 +1,4 @@
-{img
+img{
   height: 10em;
   width: 10em;
 }
@@ -7,13 +7,13 @@ a{text-decoration: none;}
 
 a:hover {
   text-decoration: underline;
-  background: 836EC9;
+  background: #836EC9;
 }
 
 div {
   height: 10em;
   width: 10em;
-  background: 229DCF;
+  background: #229DCF;
   display: inline-block;
   animation: recolor 5s infinite;
 }
