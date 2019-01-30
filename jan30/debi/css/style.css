@@ -12,7 +12,7 @@ div {annimation: recolor 5s infinite;}
     @keyframes recolor {to {background: black;}}
 
 @media only screen and (max-width: 600px){
-  body{
+  body {
     background-color:black;
   }
 }
