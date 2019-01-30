@@ -1,8 +1,13 @@
 div, img {
-  height: 8em;
-  width: 8em;
+  height: 10em;
+  width: 10em;
   display: inline-block;
   margin: 1em;
+}
+
+img {
+  height: 10em;
+  width: 10em;
 }
 
 a {text-decoration: none;}
