@@ -1,20 +1,22 @@
-img{
+img {
   height: 10em;
   width: 10em;
 }
+
 a {text-decoration: none;}
-a:hover{
+
+a:hover {
   text-decoration: underline;
   background: yellow;
 }
-div{
+div {
   height: 10em;
   width: 10em;
   background: gray;
   display: inline-block;
   animation: recolor 5s infinite;
 }
-#red{
+#red {
   background: red;
 }
 @keyframes recolor{
