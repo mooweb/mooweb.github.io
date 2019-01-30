@@ -6,3 +6,17 @@ div {
   display: inline-block;
   animation: recolor 5s infinate:
 }
+
+#red {
+  bsckground: red;
+}
+
+@keyframes recolor{
+  to {background:purple;}
+}
+
+@media only screen and (max-width:600px) {
+  body{
+    backround-color:green;
+  }
+} 
