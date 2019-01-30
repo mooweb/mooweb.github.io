@@ -5,5 +5,5 @@ $('#rounded').click(function(){
 $('p').click(function(){
   $('#custom').css({'background':'yellow'});
 });
-  $('img').fadeOut(5000);
+  $('img').fadeOut(15000);
 });
