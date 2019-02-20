@@ -36,6 +36,14 @@
   text-align:center;
 }
 
+img .flier {
+  padding: 2em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 footer {
   padding-top: 3rem;
   padding-bottom: 3rem;
