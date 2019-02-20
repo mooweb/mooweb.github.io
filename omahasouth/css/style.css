@@ -16,6 +16,9 @@
   text-decoration: none;
 }
 
+.nav-item a:hover {
+  color: #ccc;
+}
 
 .jumbotron p:last-child {
   margin-bottom: 0;
