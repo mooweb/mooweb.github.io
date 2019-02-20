@@ -11,9 +11,11 @@
   }
 }
 
-.nav-item {
+.nav-item a {
   color: #fff;
+  text-decoration: none;
 }
+
 
 .jumbotron p:last-child {
   margin-bottom: 0;
