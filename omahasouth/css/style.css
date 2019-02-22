@@ -36,7 +36,7 @@
   text-align:center;
 }
 
-.flier {
+.flier, .overview {
   padding: 2em;
   display: block;
   margin-left: auto;
