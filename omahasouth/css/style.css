@@ -20,6 +20,14 @@
   color: #ccc;
 }
 
+.dropdown-item {
+  color: #333;
+}
+
+.dropdown-item a:hover {
+  color: #333;
+}
+
 .jumbotron p:last-child {
   margin-bottom: 0;
 }
