@@ -44,7 +44,7 @@ a.dropdown-item:hover {
   text-align:center;
 }
 
-.flier, .overview {
+.flier, .overview, .rubric {
   padding: 2em;
   display: block;
   margin-left: auto;
