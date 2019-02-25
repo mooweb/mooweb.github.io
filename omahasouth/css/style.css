@@ -11,7 +11,7 @@
   }
 }
 
-button, h1, h2, h3, h4, h5, h6, a.dropdown-item, .nav-item a, .jumbotron-heading, .table-head,  {
+button, h1, h2, h3, h4, h5, h6, a.dropdown-item, .nav-item a, .jumbotron-heading, .table-head  {
   font-family: 'Iceland';
 }
 
