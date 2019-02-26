@@ -32,6 +32,10 @@ a.dropdown-item:hover {
   color: #000;
 }
 
+.btn {
+  margin-left: .5em;
+}
+
 .jumbotron p:last-child {
   margin-bottom: 0;
 }
