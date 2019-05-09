@@ -10,3 +10,23 @@ div{animation: recolor 5s infinite;}
 
 #blue{background:blue;}
 #white{background:white;}
+
+button{
+  background:red;
+  color: white;
+  boarder-radius:2em:
+}
+
+a:hover{
+  background:yellow;
+}
+
+#custom {
+  color:pink;
+  font-size:2em;
+}
+
+a{
+  text-decoration:none;
+  color:green;
+}
