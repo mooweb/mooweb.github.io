@@ -5,5 +5,7 @@ $(document).ready(function(){
 $('p').click(function(){
   $('#custom').css({'background':pink'});
  });   
-                   
+  $('div').click(function)(){
+    $(this).hide();
+  });
 });
