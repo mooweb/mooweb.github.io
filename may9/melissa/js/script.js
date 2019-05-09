@@ -6,7 +6,7 @@ $(document).ready(function(){
    $('#custom').css({'background':'pink'});
  });
 $('div').click(function(){
-  $(this).hide();
+$(this).hide();
     })
   $('img').fadeIn(300);
 
