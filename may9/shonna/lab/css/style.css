@@ -1,0 +1,39 @@
+img {
+  height: 10em;
+  width: 10em;
+}
+
+a {text-decoration: none;}
+
+a:hover {
+  text-decoration: underline;
+  background: yellow;
+}
+
+#green-paragraph {
+  color: green;
+}
+
+div { 
+  height: 10em;
+  width: 10em;
+  background: yellow;
+  display: inline-block;
+  animation: recolor 1s infinite;
+}
+
+#red {background:red;}
+#yellow {background:yellow;}
+
+@keyframes recolor {
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+}
+@media only screen and (max-width: 600px){
+  body { background:url('https://images.pexels.com/photos/128458/pexels-photo-128458.jpeg');
+  }
+}
+  
