@@ -7,6 +7,7 @@ $(document).ready(function(){
  });
 $('div').click(function(){
   $(this).hide();
-        })
+    })
+  $('img').fadeIn(300);
 
 });
