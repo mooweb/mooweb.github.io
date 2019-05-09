@@ -8,4 +8,5 @@ $('#rounded').click(function(){
   $('div').click(function(){
     $(this).hide();
   });
+  $('img').fadeIn(3000);
 });
