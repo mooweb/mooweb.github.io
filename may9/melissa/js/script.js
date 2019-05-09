@@ -1,9 +1,9 @@
 $(document).ready(function(){
   $('#rounded').click(function(){
-    $('div').css({border-radius':'10em'});
+    $('div').css({'border-radius':'10em'});
   });
   $('p').click(function(){
-    $('#custom').css({backgruond':'pink'});
+    $('#custom').css({'background':'pink'});
   });
 $('div').click(function(){
 $(this).hide();
