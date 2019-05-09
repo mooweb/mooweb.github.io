@@ -17,3 +17,14 @@ button {
   color:white;
   border-radius:2em
 }
+#custom {
+  color: pink;
+  font-size:2em;
+}
+a {
+  text-decoration: none;
+  color: green;
+}
+a:hover {
+  background: yellow;
+}
