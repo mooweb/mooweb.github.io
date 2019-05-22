@@ -1,0 +1,81 @@
+
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Weekly Team Survey</title>
+    <!-- Bootstrap core CSS -->
+    <link href="https://fonts.googleapis.com/css?family=Bahiana|Bungee+Inline|Faster+One|Iceberg|Iceland|Megrim" rel="stylesheet"> 
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" rel="stylesheet" />   
+    <link href="css/style.css" rel="stylesheet"/>
+        
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="js/script.js"></script>
+  </head>
+  <body>
+    <header>
+ <div class="navbar navbar-dark bg-dark shadow-sm">
+    <ul class="nav">
+  <li class="nav-item">
+    <a class="nav-link" href="index.html">Home</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="overview.html">Project Breakdown</a>
+  <li class="nav-item">
+    <a class="nav-link" href="rubric.html">Project Requirements</a>
+  </li>
+ <li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Key Dates</a>
+    <div class="dropdown-menu">
+      <a class="dropdown-item" href="community-dates.html">Community Events</a>
+      <a class="dropdown-item" href="osh-dates.html">Omaha South Project Dates</a>
+    </div>
+  </li>
+
+ 
+</ul>
+  </div>
+</header>
+
+<main role="main">
+<div class="container">
+ <div id="wufoo-mkie7a909fn4ig">
+Fill out my <a href="https://omahaevents.wufoo.com/forms/mkie7a909fn4ig">online form</a>.
+</div>
+<div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">Use <a href="http://www.wufoo.com/partners/">Wufoo integrations</a> and get your data to your favorite apps.</div>
+<script type="text/javascript">var mkie7a909fn4ig;(function(d, t) {
+var s = d.createElement(t), options = {
+'userName':'omahaevents',
+'formHash':'mkie7a909fn4ig',
+'autoResize':true,
+'height':'1567',
+'async':true,
+'host':'wufoo.com',
+'header':'show',
+'ssl':true};
+s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'secure.wufoo.com/scripts/embed/form.js';
+s.onload = s.onreadystatechange = function() {
+var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+try { mkie7a909fn4ig = new WufooForm();mkie7a909fn4ig.initialize(options);mkie7a909fn4ig.display(); } catch (e) {}};
+var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+})(document, 'script');</script>
+
+  
+</main>
+
+<footer class="text-muted">
+  <div class="container">
+    <p class="float-right">
+      <a href="#">Back to top</a>
+    </p>
+  </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+      <script>window.jQuery || document.write('<script src="/docs/4.2/assets/js/vendor/jquery-slim.min.js"><\/script>')</script><script src="/docs/4.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-zDnhMsjVZfS3hiP7oCBRmfjkQC4fzxVxFhBx8Hkz2aZX8gEvA/jsP3eXRCvzTofP" crossorigin="anonymous"></script></body>
+</html>
