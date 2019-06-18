@@ -2,7 +2,7 @@ $(document).ready(function(){
   
 $('img').fadeIn('slow');
 
-$(#hide).click(function() {
+$('#hide').click(function() {
     $('img').hide();
 });
   
