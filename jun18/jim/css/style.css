@@ -5,8 +5,11 @@ img, div {
   margin: 1em;
 }
 
+img {
+  display:none;}
+
 div {animation: recolor 5s infinite;}
-@keyframes recolor {to{background:white;}}
+@keyframes recolor {to{background:red;}}
 
 #blue {background:blue;}
 #green {backround:green;}
