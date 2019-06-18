@@ -1,6 +1,6 @@
 img, div {
-  height 12em; 
-  width 12em;
+  height: 12em; 
+  width: 12em;
   display: inline-block;
   margin: 1em;
 }
