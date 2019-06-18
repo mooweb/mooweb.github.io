@@ -14,5 +14,6 @@ $('#hide').click(function() {
   
 $('#animate').click(function() {
   $('#custom').css({'background':'pink'});
+});
                
 });
