@@ -1,12 +1,14 @@
 $(document).ready(function(){
 $('img').fadeIn("slow");
-  $('button').click(function(){
+  $('#hide').click(function(){
     $('img').hide();
   });
   $('#rounded').click(function(){
     $('div').css({'border-radius':'10em'});
 });
-$('p').click(function(){
-  $('custom')css({'background':'yellow']);
-                 });
+
+$('animate').click(function(){
+  $('#custom')css({'background':'yellow']);
+  });
+  
 });
