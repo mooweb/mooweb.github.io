@@ -4,3 +4,39 @@ div, img {
   display: inline-block;
   margin: 1em;
 }
+
+div {
+  animation: recolor 5s infinite;
+}
+
+@keyframes recolor {
+  to{background:green;
+  }
+}
+
+
+#red {
+  background: blue; 
+}
+
+#green {
+  background: pink;
+}
+
+
+button {
+  border-radius: 2em;
+  background: orange;
+  color: white;
+}
+
+a:hover {
+  background: gold;
+  text-decoration:none;
+}
+
+
+  
+
+
+
