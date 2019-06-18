@@ -1,5 +1,5 @@
 $(document).ready(function(){
-$('img').fadeIn("slow");
+$('img').fadeIn('slow');
   $('#hide').click(function(){
     $('img').hide();
   });
@@ -8,7 +8,7 @@ $('img').fadeIn("slow");
 });
 
 $('animate').click(function(){
-  $('#custom')css({'background':'yellow']);
+  $('#custom')css({'background':'yellow'});
   });
   
 });
