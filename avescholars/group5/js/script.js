@@ -3,3 +3,4 @@ $('hide').click(function(){
   $('img').hide();
 });
 });
+ 
